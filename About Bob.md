@@ -5,6 +5,7 @@
 
 ## What were the first lines of code that I ever wrote?
 The first code I wrote was actually probably somthing to do with modding minecraft, but I dont remember exactly what it was. The first code I remember was in python, and it was this:
+
 ```Python
 print("Hello world")
 ```
