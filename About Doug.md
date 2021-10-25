@@ -16,7 +16,6 @@ The most common program of all: "Hello, World!"
 1. Distribute the rest of the $200,000 among my relatives.
 
 ## What are my favourite websites?
-
 - [YouTube](http://youtube.com)
 - [Archive.org](http:/archive.org)
 - [Jetpunk](http://jetpunk.com)
