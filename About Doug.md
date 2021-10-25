@@ -4,7 +4,7 @@
 
 ## What were the first lines of code that I ever wrote?
 
-The most common program of all: "Hello, World!"
+The most common program of all: "Hello, World!". I did this in [Java](http://java.com).
 
 ## What would I do if I had a million dollars?
 
