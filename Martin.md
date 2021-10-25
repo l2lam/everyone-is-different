@@ -3,7 +3,7 @@
 - How one person has the ability to extend lockdowns for several more months.
 ## What were the first lines of code that I ever wrote?
 The first language that I used to program was [Processing 3.0](https://processing.org/).
-```BASIC
+```Processing
 void setup() {
   size(400, 400);
 }
