@@ -3,7 +3,9 @@
 - I decides to sleep at 12:00 but the clock shows 12:01, so I wait until 01:00
 
 ## What were the first lines of code that I ever wrote?
-`print("Hello, World!")`
+```python
+print("Hello, World!")
+```
 
 It was so cool to make the computer do stuff just by writing some text.
 
