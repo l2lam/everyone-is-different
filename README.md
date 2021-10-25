@@ -1,5 +1,6 @@
 # Everyone Is Different
 This a project used to practice pull requests
 
-# Contents
+# Profile
+- [Bruce](https://github.com/l2lam/everyone-is-different/blob/main/About%20Bruce.md)
 - [Jo-Jo]()
