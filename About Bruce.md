@@ -10,7 +10,7 @@ It was a long time ago on a [Commodore 64](https://en.wikipedia.org/wiki/Commodo
 102 NEXT X
 103 END
 ```
-It was so cool to make the `code block` computer do stuff just by writing some text.
+It was so cool to make the computer do stuff just by writing some text.
 
 ## What would I do if I had a million dollars?
 1. Donate a bunch to Sick Kids Hospital
