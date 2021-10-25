@@ -37,3 +37,10 @@ Here is evidence that raccoons are amazing:
 
 Thank you for your time
 
+#### An now, a raccoon haiku
+
+Raccoons are epic
+Universally adored
+They deserve the world
+
+
